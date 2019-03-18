@@ -1,0 +1,139 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    android:id="@+id/relativeLayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:text="Score: 0"
+        android:id="@+id/score_count"
+        android:textColor="@color/generic_dark"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/button_lb"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Inrease per tap: 1"
+        android:id="@+id/per_tap"
+        android:textColor="@color/gold"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:layout_below="@+id/score_count"
+        android:layout_alignParentStart="true" />
+
+    <!--<ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/menu"
+        android:contentDescription="Menu"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:id="@+id/menu"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_height="250dp">
+        <LinearLayout
+            android:id="@+id/bottomLayout"
+            android:layout_width="fill_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:layout_height="fill_parent">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/green"
+                android:background="@color/green"
+                android:layout_weight="0.5"
+                android:orientation="vertical" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/red"
+                android:background="@color/red"
+                android:layout_weight="0.5"
+                android:orientation="vertical" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical"
+            android:layout_height="fill_parent">
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/green2"
+                android:background="@color/green"
+                android:layout_weight="0.5"
+                android:orientation="vertical" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/red2"
+                android:background="@color/red"
+                android:layout_weight="0.5"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/cont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-5394990982904960/2623970331" />
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_height="48dp"
+        android:elevation="2dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/textview"
+        android:src="@drawable/top5"
+        android:layout_margin="@dimen/activity_horizontal_margin"
+        android:id="@+id/button_lb"/>
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_toEndOf="@+id/button_lb"
+        android:layout_height="48dp"
+        android:elevation="2dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/textview"
+        android:src="@drawable/help"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:id="@+id/button_help"/>
+
+    <ImageView
+        android:layout_toEndOf="@id/button_help"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:elevation="2dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/textview"
+        android:src="@drawable/finances"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:id="@+id/button_finances"/>
+
+</RelativeLayout>

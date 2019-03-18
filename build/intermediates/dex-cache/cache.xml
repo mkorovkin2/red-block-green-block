@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-9c0fa250893f648c3782fb8f3b0ee71ecd858ec9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-4eb3b2cea027ce0e0b35148048bf6d31d7b5c98b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/google-http-client-gson-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3cdefb990d5212bb2a130525b20e2c44aeffc4c">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/google-http-client-gson-1.19.0-d3cad67d9daa83404ad2f60cec3f0f80c0233013.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-d0f4feb0a781ea16e4e6698392c54753cb08febb.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.19.0-7217acfaee21a02d745dcb3bfd78f9cc41cf4495.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-9b00ee78cfc882fdb4e07a68512256a9db60a267.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-31fdbcb20ae0982cbb79c33a807b3602b233ed71.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-4725f9ee64f0a3be28136c5279b09d725d48063b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-14ef8eac70c53ce85a9124da5a67f4573819ae0b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-741b5dde3fb19797ddb02b5294344811b40a6535.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/java-api-core-2.10.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a59c9f196f5a0f5413606aa6d79cf98fd99cd74e">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/java-api-core-2.10.1-b7b5c1a1320f23b45c1c3fcdacf923053e2b4ae7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-59c1ab014a37c42ea3e48107914a3ed2a9511584.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-708dc7ed84604e8c5f5a98d6dca1a234db641423.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/kinvey-android-2.10.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5da04cfc546140f5c03008f0221cd5dcf169e8c3">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-d2fa95cbaec192050cd61ab5b8f120ed12409697.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-140964ba62b076359be78f863a5fd53959131567.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/gson-2.1-c5cf138f3ace60f98eaa93a0defc680bf69c530f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-2565f21633cf6833d243d30b855181e204de11f9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-e2cd633d76e20274bb2a04e1dadcfdf32e11c592.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-85863ceb91543e2a25db4ebf4305234699cc4741.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-bfc8b1f56fbb73772e9b93a1ec703cecc0efea87.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-65153a874d253372432b6fdfe77f55aabb679a1c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-73e654d8644dee7baf2e8481c3d049d05ac3a9b3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-497e2f9bf4e88d55ff6e2a04e89b6d8d1545aa7c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-d1191a695b0ba31ce774b0fae7ae4a69c868598f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-0ceb1ca5ee3d30c5ec09e5d5dd51b53a1cfe4024.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/google-http-client-1.19.0-896f65677ac906d87b7b629787a50f71d84c3d08.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-33680e13b90205c9685e5bee224cab63f249e1cf.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-bddff927d2def267c9b50f29debbf1c36848b665.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-59678c28dc9169dc2a6ab6bb23c9eabb3051464d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-46a17b1d2f7cf4a725667efffa903635cbd94ae3.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-f85b64b9b6bfc66a3b94e40c5086a748d4171b94.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-1f59a746f63f6b1bbbe77bffbde49216e7acc4ff.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-b6950c02224a82a1094f4b1d0f21fb1863a77b9c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-43325fa9fca234a694a12fd19bebd77a8eb0e82e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-c65e44c5df358baffed51f44a320449bb2e69549.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-e5cd129e43aa1e4c248632e5581bddd62e021b82.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-a4b6265f400084c1ddabe7d5ab991e456ae1f69d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/guava-18.0-c9d232e3029ef4a99d77a43139101c16803cb4f1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-3b50b70932aa392526b228143e14deb853d83096.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-8d84b9d59ed76da22a095c84a36b0f7a3a7d565b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-50e13c89f51cf3e2ef63872740dce987f5ff8b5c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-6d06621ef0765c6e16a0cf24dfdf3f9ecdd09422.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-4167581d8ff028219ee1ae738d911e9abe736f5f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-6d1124eb8b7cf7ae9ce06355fb2a486e63d02c9d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-e3e40655ca459fd4be18718defa9dd5a68ef26d7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-bbe0290baa432955d352cb45b8b12cd82f68701a.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-b4340294cdece972f32ab6da117a6f9366434792.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-d628b87b63f9c382f1c8dfe5ee21d07f9910ad89.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-e08e335e2929edfc0ee94e3a04c6bbcdc8f969e7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-f0a6ff6d600b4f5c20d66f865ce426cdc3fbe872.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-48ecc674ac82392ef2b545552bcd4b3ffc3d6407.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-1f6f085537643d9b61f163452078837e94b1ea4b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-aadcc4657d3b251f1a4029e257f675896adbd67f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/libs/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.19.0-c1c5967db93755ab9d5b8ccd264bd8577864698e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-8f1f3dc6fd3e40573ffde30d00a45fb82698618c.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-dfe667c123db6668d2c8d7b1447605fcac781ad1.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-ae300514f99f9d12b99646848ce6961fa9c43354.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-32c800bbcb94de8ab984c0879fe1484b57be6bb7.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-f4e59dc44bf8b07ac7e4906415ecd1495ebb9de0.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-a2f77579c20e1e2d34ee06db6ffc37ec2f1baa5e.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-a58a836a525b6a3a074176c6b0247c3ed0ad99a9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-34e78cce7c357ad27a14e9c2078ec4831ad4a958.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/classes-bebc32031a8086eb16b725c69fac7777ef31a789.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9099123573ca15120610d7db13cbfd3102143dcd.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Michael/AndroidStudioProjects/RedBlockGreenBlock/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-148e54d3a779ac91561d1e807a0d480371e9bb31.jar/classes.dex" />
+    </item>
+
+</items>

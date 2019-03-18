@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Red Block Green Block</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5394990982904960/6016022331</string>
+    <!--CLIPS-->
+    <!--<string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="ad_unit_id">ca-app-pub-5394990982904960/7627749537</string>-->
+
+    <string name="action_settings">Settings</string>
+</resources>

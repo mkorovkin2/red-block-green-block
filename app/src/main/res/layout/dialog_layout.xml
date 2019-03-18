@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_layout_underscore"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:id="@+id/username"
+        android:layout_margin="12dp"
+        android:textColor="@color/generic_dark"
+        android:hint="Username..."
+        android:textSize="24sp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:id="@+id/password"
+        android:layout_marginBottom="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:hint="Password..."
+        android:textColor="@color/generic_dark"
+        android:textSize="24sp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/username"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="1"
+        android:id="@+id/paypal"
+        android:layout_marginBottom="4dp"
+        android:textColor="@color/gold"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:hint="PayPal username..."
+        android:textSize="24sp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/password"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc_ppal"
+        android:text="If you do not enter a PayPal username, you will not be eligible to receive dividends from the app's revenue, in any form."
+        android:textSize="18sp"
+        android:textColor="@color/generic_alpha"
+        android:layout_marginEnd="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_below="@+id/paypal"
+        android:layout_toEndOf="@+id/cancelbutton"
+        android:layout_alignStart="@+id/donebutton" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/donebutton"
+        android:textColor="@color/generic_dark"
+        android:textSize="24sp"
+        android:text="Done"
+        android:layout_below="@+id/desc_ppal"
+        android:layout_alignStart="@+id/paypal" />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/cancelbutton"
+        android:textColor="@color/generic_dark"
+        android:textSize="24sp"
+        android:text="Cancel"
+        android:layout_below="@+id/desc_ppal"
+        android:layout_alignEnd="@+id/paypal" />
+
+</RelativeLayout>

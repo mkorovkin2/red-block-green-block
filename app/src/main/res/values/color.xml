@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="generic_alpha">#c1a9a9</color>
+    <color name="generic_dark">#4d4343</color>
+    <color name="accent">#ff66b3</color>
+    <color name="gold">#ffb366</color>
+    <color name="red">#FF5555</color>
+    <color name="green">#55FF55</color>
+    <color name="red_light">#FF9999</color>
+    <color name="green_light">#99FF99</color>
+</resources>
